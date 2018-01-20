@@ -1,0 +1,6 @@
+Obs:
+- I would have detailed more the differences between classes and structs or at least referred to the Microsoft docs
+	https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/structs
+
+- In no moment the camera position is mentioned. I followed the tutorial and didn't end up with the same view of the clock you got on the screenshots.
+In the end I moved the camera to (0, 10, 0) with a rotation of (90, 0, 0)
